@@ -1,0 +1,20 @@
+Image created with PassMark Software - imageUSB v1.5.1003
+Image created on 21-Dec-2022
+
+Source: SanDisk Cruzer Fit
+Serial No: 4C530001190731122441
+Size (Bytes): 63065554944
+Paritions: 3
+	D: Label: NA, FileSystem : Unknown, Size (Bytes): 1048576
+	F: Label: NA, FileSystem : Unknown, Size (Bytes): 1073741824
+	G: Label: NA, FileSystem : Unknown, Size (Bytes): 61988667392
+Checksum:
+	MD5: 5881EA1E4C6AA4AF448EA3329A7123FE
+	SHA1: BC389BBFA6A3BBEF2AFA432F73291088C7B0B524
+
+Image File Name: CUDA Installation - Ubuntu 18.04.6 LTS.bin
+Note: Information below does not include 512-Byte imageUSB header at the beginning of the file.
+Size (Bytes): 63065554944
+Checksum:
+	MD5: 5881EA1E4C6AA4AF448EA3329A7123FE
+	SHA1: BC389BBFA6A3BBEF2AFA432F73291088C7B0B524
